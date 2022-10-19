@@ -8,7 +8,7 @@
     <div class="container mt-4">
         <div class="col md-6 p-3 shadow rounded">
             <h4>Manage Blog</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+            <p>Here you can manage your blog (edit, update, or delete). </p>
             <hr>
 
             {{-- CREATE FORM MODAL --}}

@@ -9,7 +9,7 @@
             </div>
         @else
             <h3>Explore All Blogs</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, perspiciatis molestias </p>
+            <p>Explore various blogs!</p>
             <hr>
             <form action="{{ route('searchBlog') }}" class="col-md-6 mb-4" method="POST">
                 @csrf

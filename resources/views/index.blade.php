@@ -6,11 +6,8 @@
 @section('content')
     <div class="container-fluid p-5">
         <div class="container">
-            <h3 class="text-center">Welcome to Blog App</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quaerat ducimus doloremque itaque
-                inventore
-                soluta maiores in, deserunt incidunt ad velit quidem nobis rerum illum adipisci eligendi voluptatum aliquam
-                vitae.</p>
+            <h3 class="text-center">Welcome to J-Blog</h3>
+            <p class="text-center">Welcome to J-Blog. Here you can explore various blogs and articles by others!</p>
             <hr>
             <div class="col-12 text-center">
                 <a href="{{ url('blog/all') }}" class="btn btn-outline-primary">

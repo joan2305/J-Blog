@@ -5,7 +5,7 @@
     <div class="container mt-4">
         <div class="col md-6 p-3 shadow rounded">
             <h4>Manage Category</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+            <p>Edit, update, or delete category.</p>
             <hr>
 
             {{-- CREATE FORM MODAL --}}
